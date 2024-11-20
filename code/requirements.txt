@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+scikit-learn
+python-binance
+pandas-ta
+TA-Lib
+matplotlib
